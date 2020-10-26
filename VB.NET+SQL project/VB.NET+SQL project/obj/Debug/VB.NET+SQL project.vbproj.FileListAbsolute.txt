@@ -1,0 +1,17 @@
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\bin\Debug\VB.NET+SQL project.exe.config
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\bin\Debug\VB.NET+SQL project.exe
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\bin\Debug\VB.NET+SQL project.pdb
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\bin\Debug\VB.NET+SQL project.xml
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.vbprojResolveAssemblyReference.cache
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET_SQL_project.Form1.resources
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET_SQL_project.Resources.resources
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.vbproj.GenerateResource.Cache
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.exe
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.xml
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.pdb
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET_SQL_project.loginForm.resources
+C:\Users\Βαγγέλης\Desktop\VB .NET\Backup\VB.NET+SQL project\VB.NET+SQL project\bin\Debug\VB.NET+SQL project.exe.config
+C:\Users\Βαγγέλης\Desktop\VB .NET\Backup\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.exe
+C:\Users\Βαγγέλης\Desktop\VB .NET\Backup\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.xml
+C:\Users\Βαγγέλης\Desktop\VB .NET\Backup\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET+SQL project.pdb
+C:\Users\Βαγγέλης\Desktop\VB .NET\VB.NET+SQL project\VB.NET+SQL project\obj\Debug\VB.NET_SQL_project.dbconnect.resources
