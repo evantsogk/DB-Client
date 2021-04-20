@@ -5,7 +5,7 @@ You can connect to either SQL Server (requires credentials) or local database an
 ### Some screenshots
 
 Connection form: \
-<img src="./connection.png" width="500" height="281">
+<img src="./connect.png">
 
 Main screen: \
-<img src="./main_screen.png" width="500" height="281">
+<img src="./main_screen.png">
